@@ -44,6 +44,7 @@ $ chmod g+rwx -R <имя файла>
 ```
 chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 ```
-
+# Версия линукс
+```lsb_release -a```
 
 
