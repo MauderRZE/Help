@@ -41,7 +41,9 @@ $ chmod g+rwx -R <имя файла>
 > remowe read and write permition
 ```chmod g-rw ``` 
 # change owner of file
+```
 chown -R root(it user):root(it groupe) ./dir3( path directory or file)
+```
 
 
 
