@@ -30,9 +30,8 @@ rmdir test1 test2 test3
 # Перейменування файлів або переміщення в linux
 ```
 mv file file1
-```
 cp file file
-
+```
 
 
 
