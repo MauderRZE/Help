@@ -46,9 +46,9 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 ```
 # Версия линукс
 ```lsb_release -a```
-
-#add new user
-adduser Sanyok
+#users and groupe
+>add new user
+```adduser Sanyok```
 >Список всіх користвачів Linux 
 ```awk -F':' '{ print $1}' /etc/passwd```
 
