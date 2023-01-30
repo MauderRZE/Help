@@ -18,8 +18,9 @@ fallocate -l 1G 1G.test
 ```
 ##delete in linux
 How to delete a folder with contents
+```
 rm -r test
-
+```
 How to delete an empty folder
 The ```rmdir``` command is specifically used to delete empty directories
 ```
