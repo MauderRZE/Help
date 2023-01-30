@@ -31,6 +31,9 @@ rmdir test1 test2 test3
 ```
 mv file file1
 ```
+cp file file
+
+
 
 
 
