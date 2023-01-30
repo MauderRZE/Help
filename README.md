@@ -33,12 +33,15 @@ mv file file1
 cp file file
 ```
 # change permiton
+$ chmod g+rwx -R <имя файла>
+
 > add read and write permition
 ```chmod g+rw ```
 
 > remowe read and write permition
 ```chmod g-rw ``` 
-
+# change owner of file
+chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 
 
 
