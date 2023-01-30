@@ -33,7 +33,10 @@ mv file file1
 cp file file
 ```
 # change permiton
-```chmod g+rw ``` > add read and write permition
+```chmod g+rw ```
+ytyty
+> add read and write permition
+
 ```chmod g-rw ``` > remowe read and write permition
 
 
