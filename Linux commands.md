@@ -54,6 +54,9 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 >Список всіх користвачів Linux 
 ```awk -F':' '{ print $1}' /etc/passwd```
 
+# Log file in linux commands
+```~/.bash_history```
+
 
 
 
