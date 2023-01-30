@@ -17,6 +17,7 @@ create file 1g with space 1gb
 fallocate -l 1G 1G.test
 ```
 # delete in linux
+
 How to delete a folder with contents
 ```
 rm -r test
