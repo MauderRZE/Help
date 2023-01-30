@@ -16,7 +16,7 @@ dd if=/dev/zero of=1G.test bs=1 count=0 seek=1G
 create file 1g with space 1gb
 fallocate -l 1G 1G.test
 ```
-##delete in linux
+#delete in linux
 How to delete a folder with contents
 ```
 rm -r test
