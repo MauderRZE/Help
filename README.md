@@ -35,6 +35,7 @@ cp file file
 # change permiton
 > add read and write permition
 ```chmod g+rw ```
+
 > remowe read and write permition
 ```chmod g-rw ``` 
 
