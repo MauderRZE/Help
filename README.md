@@ -27,6 +27,10 @@ The ```rmdir``` command is specifically used to delete empty directories
 ```
 rmdir test1 test2 test3
 ```
+# Перейменування файлів або переміщення в linux
+```
+mv file file1
+```
 
 
 
