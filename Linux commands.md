@@ -75,6 +75,20 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 >вивод информации по сетевой карте
 ```sudo ethtool enp1s0```
 
+# Брандмауер 
+
+> check status 
+``` ufw status```
+
+> check lists
+ufw app list
+
+> add servise
+```ufw allow OpenSSH ```
+
+> enable firewall
+```ufw enable```
+
 
 
 
