@@ -89,6 +89,10 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 > enable firewall
 ```ufw enable```
 
+# apache2
+
+>```systemctl status apache2```
+
 
 
 
