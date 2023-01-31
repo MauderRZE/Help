@@ -105,7 +105,7 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 >Создание виртуального хоста
 ```sudo nano /etc/apache2/sites-available/your_domain.conf```
 
->Активируем файл с помощью инструмента ```a2ensite```:
+>Активируем файл виртуального хоста ```a2ensite```:
 ```sudo a2ensite your_domain.conf```
 
 # host
