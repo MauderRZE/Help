@@ -94,10 +94,10 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 >```systemctl status apache2
 >```sudo systemctl stop apache2
 >sudo systemctl start apache2
->sudo systemctl restart apache2
+>sudo systemctl restart apache2```
 
 >перезагрузка без розрива соединения
->sudo systemctl reload apache2
+>```sudo systemctl reload apache2```
 
 >disable or enable apach service when system start
 >```sudo systemctl disable apache2```
