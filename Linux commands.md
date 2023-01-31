@@ -49,7 +49,7 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 # users and groupes
 
 >перевітити до яких груп відноситься користувач root
-groups root 
+```groups root ```
 
 >add new user
 ```adduser Sanyok```
