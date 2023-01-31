@@ -32,8 +32,13 @@ rmdir test1 test2 test3
 mv file file1
 cp file file
 ```
-# change permiton
-$ chmod g+rwx -R <имя файла>
+#permitions
+
+>chek permit to directory
+```ls -ld```
+
+>change permiton
+```$ chmod g+rwx -R <имя файла>```
 
 > add read and write permition
 ```chmod g+rw ```
