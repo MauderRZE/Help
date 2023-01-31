@@ -53,7 +53,7 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 ```lsb_release -a```
 # users and groups
 
->перевітити до яких груп відноситься користувач root
+>перевітити до яких груп відноситься користувач
 ```groups <имя пользователя> ```
 
 >add new user
