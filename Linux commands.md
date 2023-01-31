@@ -65,6 +65,11 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 # Log file in linux commands
 ```~/.bash_history```
 
+#networks 
+
+>вивод информации по сетевой карте
+```sudo ethtool enp1s0```
+
 
 
 
