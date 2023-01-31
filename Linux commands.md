@@ -93,6 +93,10 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 
 >```systemctl status apache2```
 
+# host
+
+> ```hostname, hostname -i, hostname -I```
+
 
 
 
