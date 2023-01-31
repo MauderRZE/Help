@@ -48,11 +48,16 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 ```lsb_release -a```
 # users and groupes
 
+>перевітити до яких груп відноситься користувач root
+groups root 
+
 >add new user
 ```adduser Sanyok```
 
 >Список всіх користвачів Linux 
 ```awk -F':' '{ print $1}' /etc/passwd```
+
+
 
 # Log file in linux commands
 ```~/.bash_history```
