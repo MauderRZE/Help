@@ -35,16 +35,16 @@ cp file file
 # permitions
 
 >chek permit to directory "test"
-```ls  -ld /test```
+```ls  -ld <имя файла>```
 
 >change permiton
 ```$ chmod g+rwx -R <имя файла>```
 
 > add read and write permition
-```chmod g+rw ```
+```chmod g+rw <имя файла>```
 
 > remowe read and write permition
-```chmod g-rw ``` 
+```chmod g-rw <имя файла>``` 
 # change owner of file
 ```
 chown -R root(it user):root(it groupe) ./dir3( path directory or file)
@@ -54,10 +54,10 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 # users and groups
 
 >перевітити до яких груп відноситься користувач root
-```groups root ```
+```groups <имя пользователя> ```
 
 >add new user
-```adduser Sanyok```
+```adduser <имя пользователя>```
 
 >add to groupe 
 ```usermod -aG sudo sanyok```
