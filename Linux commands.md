@@ -53,6 +53,8 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 
 >add new user
 ```adduser Sanyok```
+>add to groupe 
+```usermod -aG sudo sanyok```
 
 >Список всіх користвачів Linux 
 ```awk -F':' '{ print $1}' /etc/passwd```
