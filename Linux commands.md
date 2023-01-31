@@ -96,7 +96,9 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 # host
 
 > ```hostname, hostname -i, hostname -I```
+# Зовнішній IP
 
+>```curl -4 icanhazip.com```
 
 
 
