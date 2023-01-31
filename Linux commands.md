@@ -81,7 +81,7 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 ``` ufw status```
 
 > check lists
-ufw app list
+```ufw app list```
 
 > add servise
 ```ufw allow OpenSSH ```
