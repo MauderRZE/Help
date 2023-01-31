@@ -102,6 +102,12 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 >disable or enable apach service when system start
 >```sudo systemctl disable apache2```
 
+>Создание виртуального хоста
+```sudo nano /etc/apache2/sites-available/your_domain.conf```
+
+>Активируем файл с помощью инструмента ```a2ensite```:
+```sudo a2ensite your_domain.conf```
+
 # host
 
 > ```hostname, hostname -i, hostname -I```
