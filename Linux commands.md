@@ -46,13 +46,14 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 ```
 # Версия линукс
 ```lsb_release -a```
-# users and groupes
+# users and groups
 
 >перевітити до яких груп відноситься користувач root
 ```groups root ```
 
 >add new user
 ```adduser Sanyok```
+
 >add to groupe 
 ```usermod -aG sudo sanyok```
 
