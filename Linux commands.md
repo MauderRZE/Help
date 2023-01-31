@@ -108,6 +108,9 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 >Активируем файл виртуального хоста ```a2ensite```:
 ```sudo a2ensite your_domain.conf```
 
+>Отключить сайт по умолчанию 
+```sudo a2dissite 000-default.conf```
+
 # host
 
 > ```hostname, hostname -i, hostname -I```
