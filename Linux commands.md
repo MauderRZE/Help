@@ -106,10 +106,13 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 ```sudo nano /etc/apache2/sites-available/your_domain.conf```
 
 >Активируем файл виртуального хоста ```a2ensite```:
-```su your_domain.conf```
+```sudo a2ensite your_domain.conf```
 
 >Отключить сайт по умолчанию 
 ```sudo a2dissite 000-default.conf```
+
+>listen ports
+/etc/apache2/ports.conf
 
 # host
 
