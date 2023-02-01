@@ -122,7 +122,7 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 > ```hostname, hostname -i, hostname -I```
 # Зовнішній IP
 
-+ 1dsd
+`#0969DA` + 1dsd
 
 >```curl -4 icanhazip.com```
 
