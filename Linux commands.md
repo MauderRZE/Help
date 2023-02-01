@@ -118,7 +118,7 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 ```/etc/apache2/ports.conf```
 
 # host
-
+<!-- This content will not appear in the rendered Markdown -->
 > ```hostname, hostname -i, hostname -I```
 # Зовнішній IP
 
