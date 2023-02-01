@@ -86,6 +86,9 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 > add servise
 ```ufw allow OpenSSH ```
 
+>add ports
+```ufw allow 8080```
+
 > enable firewall
 ```ufw enable```
 
