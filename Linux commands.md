@@ -112,7 +112,7 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 ```sudo a2dissite 000-default.conf```
 
 >listen ports
-/etc/apache2/ports.conf
+```/etc/apache2/ports.conf```
 
 # host
 
