@@ -126,5 +126,11 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 
 >```curl -4 icanhazip.com```
 
+# MySQl
+
+>Смена пароля пользователя
+
+```mysql -u root -p```
+```ALTER USER 'user-name'@'localhost' IDENTIFIED BY 'NEW_USER_PASSWORD';```
 
 
