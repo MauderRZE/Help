@@ -122,7 +122,7 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 > ```hostname, hostname -i, hostname -I```
 # Зовнішній IP
 
-The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
+
 
 >```curl -4 icanhazip.com```
 
