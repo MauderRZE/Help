@@ -36,6 +36,7 @@ cp file file
 
 >chek permit to directory "test"
 ```ls  -ld <имя файла>```
+ls -l покаже права на всі файли в папці
 
 >change permiton
 ```$ chmod g+rwx -R <имя файла>```
