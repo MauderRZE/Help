@@ -133,5 +133,7 @@ chown -R root(it user):root(it groupe) ./dir3( path directory or file)
 
 ```mysql -u root -p```
 ```ALTER USER 'user-name'@'localhost' IDENTIFIED BY 'NEW_USER_PASSWORD';```
+# Samba
+https://admx.help/?Category=admx-samba&Policy=admx-samba-alt3.noarch::POL_E305251F_7C82_54A6_8F9D_CFBB7934B1DF
 
 
