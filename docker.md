@@ -5,4 +5,6 @@ https://docs.docker.com/engine/reference/commandline/docker/
 docker-compose up
 docker-compose down
 docker-compose ls
+docker-compose ps
 ```
+
