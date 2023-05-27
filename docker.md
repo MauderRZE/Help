@@ -18,4 +18,6 @@ docker-compose down
 docker-compose ls
 docker-compose ps
 ```
-
+ <?php
+        echo "Hello world!";
+    ?>
