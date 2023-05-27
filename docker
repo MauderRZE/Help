@@ -1,4 +1,4 @@
-# docker commands
+#docker commands
 https://docs.docker.com/engine/reference/commandline/docker/
 # docker-compose.yml
 ```docker-compose up``` - запустить 
