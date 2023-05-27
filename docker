@@ -1,0 +1,6 @@
+# docker commands
+https://docs.docker.com/engine/reference/commandline/docker/
+# docker-compose.yml
+```docker-compose up``` - запустить 
+```docker-compose down``` - зупинити
+```docker-compose ls``` - подивитися процеси (containers)
