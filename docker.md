@@ -4,4 +4,5 @@ https://docs.docker.com/engine/reference/commandline/docker/
 ``` 
 docker-compose up
 docker-compose down
-docker-compose ls``` - подивитися процеси (containers)
+docker-compose ls
+```
