@@ -18,6 +18,9 @@ docker-compose down
 docker-compose ls
 docker-compose ps
 ```
+# зайти в саму ос докера
+$docker exec -it "php_pro_app" /bin/bash
+
 
 
     
