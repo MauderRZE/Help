@@ -17,4 +17,4 @@ git push origin dev
 git push origin myFeature
 ```
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+
