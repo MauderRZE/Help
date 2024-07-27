@@ -16,4 +16,3 @@ Now push the changes to the server
 git push origin dev
 git push origin myFeature
 ```
-And you'll see it how you want it.
