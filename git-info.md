@@ -1,4 +1,4 @@
-###Create new branch from different branch
+### Create new branch from different branch
 ```
 git checkout -b myFeature dev
 ```
