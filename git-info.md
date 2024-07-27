@@ -1,6 +1,7 @@
 ### Create new branch from different branch
 ```
-git checkout -b myFeature dev
+> [!IMPORTANT]
+> git checkout -b myFeature dev
 ```
 Creates the MyFeature branch off dev. Do your work and then
 ```
@@ -16,5 +17,5 @@ Now push the changes to the server
 git push origin dev
 git push origin myFeature
 ```
-> [!IMPORTANT]
-> some
+
+
