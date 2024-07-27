@@ -1,6 +1,4 @@
-It's a set of scripts he created for that workflow.
-
-But to answer your question:
+###Create new branch from different branch
 ```
 git checkout -b myFeature dev
 ```
