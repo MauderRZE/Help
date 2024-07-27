@@ -18,5 +18,5 @@ git push origin dev
 git push origin myFeature
 ```
 
-@github/support What do you think about these updates?
+@ github/support What do you think about these updates?
 
