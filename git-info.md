@@ -17,4 +17,3 @@ Now push the changes to the server
 git push origin dev
 git push origin myFeature
 ```
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
