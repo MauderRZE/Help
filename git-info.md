@@ -1,8 +1,8 @@
 ### Create new branch from different branch
-```
+
 > [!IMPORTANT]
 > git checkout -b myFeature dev
-```
+
 Creates the MyFeature branch off dev. Do your work and then
 ```
 git commit -am "Your message"
