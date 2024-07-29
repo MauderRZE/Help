@@ -18,7 +18,7 @@ git push origin dev
 git push origin myFeature
 ```
 
-## delete remote brunch 
+## delete remote branch 
 ```
 git push origin --delete <branchName>
 ```
