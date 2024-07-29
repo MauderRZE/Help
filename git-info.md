@@ -17,3 +17,8 @@ Now push the changes to the server
 git push origin dev
 git push origin myFeature
 ```
+
+## delete remote brunch 
+```
+git push origin --delete <branchName>
+```
