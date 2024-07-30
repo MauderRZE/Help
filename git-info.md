@@ -27,3 +27,7 @@ git push origin --delete <branchName>
 ```
 git rm --cached <folder> -f
 ```
+### Git log pretty (custom)
+```
+git log --pretty=format:"%h %ad | %s%d [%an]" --date=short
+```
