@@ -22,3 +22,8 @@ git push origin myFeature
 ```
 git push origin --delete <branchName>
 ```
+
+### удалить файл из области индексирования “Staging Area”, но при этом оставить его в области рабочего проекта “Working Directory”
+```
+git rm --cached <folder> -f
+```
