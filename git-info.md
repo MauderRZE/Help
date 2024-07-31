@@ -27,6 +27,9 @@ git push origin --delete <branchName>
 ```
 git rm --cached <folder> -f
 ```
+Параметр cached указывает, что должны быть удалены только файлы, находящиеся в разделе проиндексированных файлов.
+Файлы в рабочем каталоге при этом остаются нетронутыми. 
+
 ### Git log pretty (custom)
 ```
 git log --pretty=format:"%h %ad | %s%d [%an]" --date=short
